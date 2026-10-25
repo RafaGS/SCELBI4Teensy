@@ -4,6 +4,8 @@
 
 ## English Version
 
+More information at [Minibots](https://minibots.wordpress.com/2026/10/25/emulador-de-scelbi-8h-con-teensy-4-1/).
+
 This project is a SCELBI computer emulator specifically adapted to run on the Teensy platform. We use the EmulatorKit emulator as our base, modifying it to suit the requirements of an embedded microcontroller environment and modern interfaces.
 
 ### Architectural and Platform Changes
@@ -44,9 +46,15 @@ This project is a SCELBI computer emulator specifically adapted to run on the Te
 
 This project is based on EmulatorKit. In accordance with its original license, this project is licensed under the **GNU General Public License v3.0**. See the `LICENSE` file for more details.
 
+### Retrocomputing
+
+See this system on the [timeline](https://sites.google.com/view/minibotsmuseum/timeline) of our [Retrocomputing Museum](https://sites.google.com/view/minibotsmuseum).
+
 ---
 
 ## Versión en Español
+
+Más información en [Minibots](https://minibots.wordpress.com/2026/10/25/emulador-de-scelbi-8h-con-teensy-4-1/).
 
 Este proyecto es un emulador del ordenador SCELBI, adaptado específicamente para funcionar sobre la plataforma Teensy. Utilizaremos como base el emulador EmulatorKit, el cual hemos adaptado para un entorno embebido.
 
@@ -87,3 +95,7 @@ Este proyecto es un emulador del ordenador SCELBI, adaptado específicamente par
 ### Licencia
 
 Este proyecto está basado en EmulatorKit. En cumplimiento de su licencia original, este proyecto está licenciado bajo la **GNU General Public License v3.0**. Puedes consultar el archivo `LICENSE` para más detalles.
+
+### Retroinformática
+
+Véase este sistema en la [línea temporal](https://sites.google.com/view/minibotsmuseum/timeline) de nuestro [Museo de la Retroinformática](https://sites.google.com/view/minibotsmuseum).
